@@ -1,0 +1,4 @@
+Packages/
+*.msixbundle
+*.appxbundle
+*.appx
