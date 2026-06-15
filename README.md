@@ -22,18 +22,18 @@
 Поэтому для разворачивания WIM я использую **DISM++** — GUI-оболочку для работы с образами Windows.
 
 <details>
-<summary>🖼️ Скриншот DISM++</summary>
+<summary> Скриншот DISM++</summary>
 
-![DISM++](IMG/DISM++.png)
+![DISM++](img/DISM++.png)
 
 </details>
 
 С помощью DISM++ WIM разворачивается на виртуальный VHD-диск, который можно создать средствами самой Windows.
 
 <details>
-<summary>🖼️ Создание и подключение VHD</summary>
+<summary> Создание и подключение VHD</summary>
 
-![Создание и подключение VHD](IMG/screen-01-vhd.png)
+![Создание и подключение VHD](img/screen-01-vhd.png)
 
 </details>
 
@@ -44,9 +44,9 @@ LTSC-Add-MicrosoftStore-24H2-WIM.bat
 ```
 
 <details>
-<summary>🖼️ Запуск скрипта</summary>
+<summary> Запуск скрипта</summary>
 
-![Запуск скрипта](IMG/script-start.png)
+![Запуск скрипта](img/script-start.png)
 
 </details>
 
@@ -54,7 +54,7 @@ LTSC-Add-MicrosoftStore-24H2-WIM.bat
 
 Если всё прошло нормально, в конце скрипт покажет проверку установленных provisioned AppX-пакетов:
 
-![Успешная установка](IMG/script-install-success.png)
+![Успешная установка](img/script-install-success.png)
 
 ---
 
