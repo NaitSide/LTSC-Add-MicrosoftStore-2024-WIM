@@ -1,5 +1,12 @@
 # LTSC-Add-MicrosoftStore-2024-WIM
 
+> 📦 **Нужен готовый комплект?**  
+> Скачайте full-архив проекта из раздела **[Releases](https://github.com/NaitSide/LTSC-Add-MicrosoftStore-2024-WIM/releases/tag/v1.0)**:  
+> **LTSC-Add-MicrosoftStore-2024-WIM.zip**
+>
+> В архиве уже лежит всё необходимое: скрипт, `README.md`, скриншоты и папка `Packages` со всеми пакетами.
+
+
 **LTSC-Add-MicrosoftStore-2024-WIM** — это форк проекта [LTSC-Add-MicrosoftStore](https://github.com/minihub/LTSC-Add-MicrosoftStore).
 
 ## ⚙️ Что делает скрипт
