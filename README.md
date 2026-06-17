@@ -1,5 +1,12 @@
 # LTSC-Add-MicrosoftStore-2024-WIM
 
+> ⚠️ **Статус проекта: экспериментальный**
+>
+> Offline-интеграция Microsoft Store в WIM/VHD-образ Windows 11 LTSC 2024 проходит без ошибок DISM, но после установки Windows Store может не появиться в меню Пуск и не зарегистрировать протокол `ms-windows-store:`.
+>
+> Проект оставлен как исследовательская наработка. Для практического использования планируется отдельный **Windows LTSC Post-Install Kit** с online-установкой Store.
+
+
 > 📦 **Нужен готовый комплект?**  
 > Скачайте full-архив проекта из раздела **[Releases](https://github.com/NaitSide/LTSC-Add-MicrosoftStore-2024-WIM/releases/tag/v1.0)**:  
 > **LTSC-Add-MicrosoftStore-2024-WIM.zip**
